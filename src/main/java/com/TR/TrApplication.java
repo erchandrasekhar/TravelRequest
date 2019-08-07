@@ -8,6 +8,7 @@ public class TrApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TrApplication.class, args);
+		System.out.println("Wecome to Travel Request");
 	}
 
 }
